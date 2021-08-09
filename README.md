@@ -5,8 +5,6 @@ OpenROM is an open-source operating system ROM build for the BBC Microbit.
 
 Input in OpenROM was hard to think of with _only two_ buttons on the main board.
 
-```
-
 For more details see [the github repo](https://github.com/chardida/openrom-microbit-v1).
 
 ### Why?
