@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to the OpenROM website.
+OpenROM is an open-source operating system ROM build for the BBC Microbit.
 
-You can use the [editor on GitHub](https://github.com/chardida/openrom/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Input
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Input in OpenROM was hard to think of with _only two_ buttons on the main board.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [the github repo](https://github.com/chardida/openrom-microbit-v1).
 
-### Jekyll Themes
+### Why?
+OpenROM is almost a shell for the micro:bit. It is easy to use but the code is small enough for people to go in and tinker about in there, if they make a fork.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chardida/openrom/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more info [email me](mailto:charlie@nolan.xyz).
+!THIS PAGE IS UNDER CONSTRUCTION!
